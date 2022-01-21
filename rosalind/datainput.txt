@@ -1,0 +1,8 @@
+bla = open('rosalind_ba1c.txt', 'r')
+x = bla.read().strip()
+
+allData = np.loadtxt('rosalind_ba2a.txt',dtype='str')
+
+text = allData[0]
+pattern = allData[1]
+

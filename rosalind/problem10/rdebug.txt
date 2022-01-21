@@ -1,0 +1,61 @@
+TEST DATASET 1:
+ACGTTGCATGTCGCATGATGCATGAGAGCT
+4 1
+ATGC ATGT GATG
+=======================================================
+existing
+(5, 'ATGT')
+(5, 'GATG')
+(5, 'ATGC')
+brute
+(5, 'ATGC')
+(5, 'ATGT')
+(5, 'GATG')
+
+
+TEST DATASET 2:
+AAAAAAAAAA
+2 1
+AA AC AG CA AT GA TA
+=======================================================
+existing
+(8, 'AA')
+brute
+(8, 'AA')
+(8, 'AC')
+(8, 'AG')
+(8, 'AT')
+(8, 'CA')
+(8, 'GA')
+(8, 'TA')
+
+
+
+Question sample:
+AACAAGCTGATAAACATTTAAAGAG
+5 1
+AAAAA
+=======================================================
+existing
+(3, 'TTAAA')
+brute
+(4, 'AAAAA')
+0.017594575881958008 seconds
+0.0002932429313659668 minutes
+
+
+
+TEST DATASET 4:
+AATTAATTGGTAGGTAGGTA
+4 0
+GGTA
+=======================================================
+
+
+
+TEST DATASET 2:
+AGTCAGTC
+4 2
+TCTC CGGC AAGC TGTG GGCC AGGT ATCC ACTG ACAC AGAG ATTA 
+TGAC AATT CGTT GTTC GGTA AGCA CATC
+=======================================================

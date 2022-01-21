@@ -1,0 +1,14 @@
+brute(k)========
+existing
+CTCCCTA
+
+brute
+ATACTAT
+
+read.in k7======
+existing 
+94
+CTCCCTA
+
+brute
+TCTCTCT

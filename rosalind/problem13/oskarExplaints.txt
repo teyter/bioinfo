@@ -1,0 +1,74 @@
+A 0.2 0.2 0.3 0.2 0.3
+C 0.4 0.3 0.1 0.5 0.1
+G 0.3 0.3 0.5 0.2 0.4
+T 0.1 0.2 0.1 0.1 0.2
+    C   C   G   C   G CCGCG
+    C   G   G   C   G CGGCG
+
+    C   C   G   A   G CCGAG
+
+
+ACCTGTTTATTGCCTAAGTTCCGAACAAACCCAATATAGCCCGAGGGCCT
+                                        CCGCG
+CCGAG
+A   C   G   T
+0.2 0.4 0.3 0.1 C
+0.2 0.3 0.3 0.2 C/G
+0.3 0.1 0.5 0.1 G
+0.2 0.5 0.2 0.1 C
+0.3 0.1 0.4 0.2 G
+                CxGxG
+                CCGAG
+A   C   G   T
+0.2 0.4 0.3 0.1 C
+0.2 0.3 0.0 0.2 C
+0.3 0.1 0.5 0.1 G
+0.2 0.0 0.2 0.1 G
+0.3 0.1 0.4 0.2 G
+                CCGxG
+                CCGAG
+A   C   G   T
+0.2 0.4 0.3 0.1 C
+0.2 0.3 0.0 0.2 C
+0.3 0.1 0.5 0.1 G
+0.2 0.0 0.0 0.1 A
+0.3 0.1 0.4 0.2 G
+
+    7   3   5   5   4   3   4   6
+A 0.7 0.2 0.1 0.5 0.4 0.3 0.2 0.1
+C 0.2 0.2 0.5 0.4 0.2 0.3 0.1 0.6
+G 0.1 0.3 0.2 0.1 0.2 0.1 0.4 0.2
+T 0.0 0.3 0.2 0.0 0.2 0.3 0.3 0.1
+    A   G   C   A   A   A   G   C =4
+    A   G   C   A   A   C   G   C =3
+    A   G   C   A   A   T   G   C =4
+    A   T   C   A   A   A   G   C =5
+    A   T   C   A   A   C   G   C =5
+    A   T   C   A   A   T   G   C =5
+
+A 0.7 0.2 0.1 0.5 0.- 0.3 0.2 0.1
+C 0.2 0.2 0.5 0.4 0.2 0.3 0.1 0.6
+G 0.1 0.3 0.2 0.1 0.2 0.1 0.4 0.2
+T 0.0 0.3 0.2 0.0 0.2 0.3 0.3 0.1
+    A   G   C   A   C   A   G   C
+    A   G   C   A   G   A   G   C
+    A   G   C   A   T   A   G   C
+    A   G   C   A   C   C   G   C
+    A   G   C   A   G   C   G   C
+    A   G   C   A   T   C   G   C
+    A   G   C   A   C   T   G   C
+    A   G   C   A   G   T   G   C
+    A   G   C   A   T   T   G   C
+    A   T   C   A   C   A   G   C
+    A   T   C   A   G   A   G   C
+    A   T   C   A   T   A   G   C
+    A   T   C   A   C   C   G   C
+    A   T   C   A   G   C   G   C
+    A   T   C   A   T   C   G   C
+    A   T   C   A   C   T   G   C
+    A   T   C   A   G   T   G   C
+    A   T   C   A   T   T   G   C
+
+    A   G   C   A   G   C   T   T =GOAL
+
+    

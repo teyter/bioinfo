@@ -1,0 +1,16 @@
+AGCAGCTT goal
+AtCAatgc goal
+ATCAATGC P
+[5, 7, 7, 4, 7, 7, 6, 3, 8, 7, 6, 6, 4, 6, 6, 6, 7, 8, 7, 4, 7, 5, 5, 5, 7, 5, 8, 4, 8, 4, 8, 5, 7, 7, 8, 5, 6, 8, 7, 4, 5, 6, 5, 4, 5, 5, 6, 4, 6, 7, 7, 5, 8, 5, 6, 6, 6, 8, 4, 7, 5, 5, 7, 6, 6, 5, 7, 7, 6, 4, 6, 6, 7, 7, 5, 7, 7, 7, 5, 8, 7]
+3
+TTGACTGC pt
+ATCAATGC p
+aTcAaTGC
+
+ATCAATGC P
+TTGACTGC pt
+1 1 1   
+
+ATCAATGC P
+AGCAGCTT goal
+ 1  1111

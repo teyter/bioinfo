@@ -1,0 +1,13 @@
+def listAllK(Interval,k):
+    # create list of all k patterns
+    window = []
+    for i in range(len(Interval)-k):
+        window.append( Interval[i:i+k] )
+    # create list with frequency of patterns
+    li = []
+    for i in window:
+        # nr of appearances + " " + pattern
+#       li.append(str(window.count(i)) + ' ' + i)
+        li.append(str(findCount(Interval,i)) + ' ' + i)
+    # delete duplicates and return
+    return list(dict.fromkeys(li))
